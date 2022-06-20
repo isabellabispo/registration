@@ -1,7 +1,7 @@
 <h1 align="center"> Registro de casas  🏡  </h1>
 
 <p>
-    Está funcão permite colocar a Área da casa, número e bairro  e cidade, também depois de resgistradas na lista poderá remover a que desejar</p>
+    Está funcão permite colocar a Área da casa, número, bairro  e cidade, também depois de resgistradas na lista poderá remover a que desejar</p>
 </p>
 <br>
 
