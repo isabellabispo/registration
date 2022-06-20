@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">>
+    <link rel="stylesheet" href="assets/styleExDom.css">
+    <script src="assets/exManipulandoDOM.js"></script>
+    <title>Exercício Manipulando DOM</title>
+</head>
+<body>
+    <form>
+        <H2 align="center"> Home Registration</H2>
+
+        <p>
+            <label>Área da Casa: </label>
+            <input type="text" name="area"/>
+        </p>
+
+        <p>
+            <label>Número da Casa: </label>
+            <input type="text" name="number"/>
+        </p>
+
+        <p>
+            <label>Bairro: </label>
+            <input type="text" name="neighborhood"/>
+        </p>
+
+        <p>
+            <label>Cidade: </label>
+            <input type="text" name="city"/>
+        </p>
+
+        <button onclick="saveHouse()" type="button"><strong>Salvar</strong></button>
+   
+    </form>
+
+    <ul id="house-list"></ul>
+
+    
+
+</body>
+</html>
